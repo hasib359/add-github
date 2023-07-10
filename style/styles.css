@@ -2,14 +2,17 @@
     margin: 0;
 
 }
-.header{
+.ts-im{
     background-image: url('../image/cat.jpg');
-    margin: 10px;
+    display: flex;
+    justify-content: center;
     padding: 20px;
     height: 500px;
+    width: 500px;
     background-size: 300px;
     background-repeat: no-repeat;
-}
+    background-blend-mode: color white;
+    
 
 
 button{
